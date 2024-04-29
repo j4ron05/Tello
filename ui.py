@@ -90,7 +90,7 @@ class TelloUI(object):
                           'W - Move Tello Up\t\t\tArrow Up - Move Tello Forward\n'
                           'S - Move Tello Down\t\t\tArrow Down - Move Tello Backward\n'
                           'A - Rotate Tello Counter-Clockwise\tArrow Left - Move Tello Left\n'
-                          'D - Rotate Tello Clockwise\t\tArrow Right - Move Tello Right'
+                          'D - Rotate Tello Clockwise\t\tArrow Right - Move Tello Right\n'
                           'I - Takeoff\t\t\t\tL - Land\n',
                          
                           justify='left')
